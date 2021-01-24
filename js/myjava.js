@@ -2,5 +2,5 @@ var string = document.lastModified;
 			document.write(document.lastModified);
 			// returns: saturday, December 16, 2017 11:09:42
 			
-var d = new Date();
+var d = current date();
 document.getElementById("new Date").innerHTML = d.getFullYear();
