@@ -3,4 +3,4 @@ var string = document.lastModified;
 			// returns: saturday, December 16, 2017 11:09:42
 			
 var d = new Date("2021");
-document.getElementById("new Date").innerHTML = d.getFullYear();
+document.getElementById("new_Date").innerHTML = d.getFullYear();
